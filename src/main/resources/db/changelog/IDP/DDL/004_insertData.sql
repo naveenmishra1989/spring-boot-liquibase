@@ -1,0 +1,2 @@
+INSERT INTO SONU.REGISTRATION_USERS(username, first_name, last_name,email,mobile) VALUES('naveen', 'java', 'mishra','a@gmail.com','9910121314');
+INSERT INTO SONU.REGISTRATION_USERS(username, first_name, last_name,email,mobile) VALUES('sonu', 'sahu', 'java','b@gmail.com','7735888844');
